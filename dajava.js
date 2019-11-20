@@ -14,4 +14,10 @@ function generate(){
         password = password + values.charAt(Math.floor(Math.random() * Math.floor(values.length -1)));
 
     }
+
+
+    document.getElementById("display").value = password;
+
 }
+
+    
