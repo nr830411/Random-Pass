@@ -20,4 +20,4 @@ function generate(){
 
 }
 
-    
+document.getElementById("length").textContent = "Length: 25";
