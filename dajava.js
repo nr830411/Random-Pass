@@ -34,8 +34,8 @@ document.getElementById("slider").oninput = function() {
 function copypass() {
 
  document.getElementById("display").select();
-    document.getElementById("display");
-        alert ("PassWord Copied to Clipboard")
+    document.execCommand("Copy");
+        alert ("Password Copied to Clipboard")
 
 }
 
