@@ -1,0 +1,31 @@
+.content{
+
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: bisque;
+    padding: 50px;
+    
+}
+
+button{
+
+    text-emphasis: center;
+    
+}
+
+#display{
+
+    width: 100%;
+
+}
+
+#slider {
+
+    width: 100%;
+}
+
+h3 {
+
+    text-align: center;
+}
